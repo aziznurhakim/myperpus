@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\bin\Debug\NewPerpus.exe.config
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\bin\Debug\NewPerpus.exe
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\bin\Debug\NewPerpus.pdb
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\obj\Debug\NewPerpus.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\obj\Debug\NewPerpus.Form1.resources
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\obj\Debug\NewPerpus.Properties.Resources.resources
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\obj\Debug\NewPerpus.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\obj\Debug\NewPerpus.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\obj\Debug\NewPerpus.exe
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\obj\Debug\NewPerpus.pdb
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\bin\Debug\mydb.accdb
+C:\Users\hp\source\repos\NewPerpus\NewPerpus\obj\Debug\NewPerpus.Form2.resources
